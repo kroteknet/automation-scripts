@@ -15,6 +15,7 @@
 LICENSE text eol=lf
 
 # Binary files - no line-ending conversion
+*.png binary
 *.tar.gz binary
 binaries/*/krotek-*-linux-amd64 binary
 binaries/*/krotek-*-linux-arm64 binary
