@@ -13,18 +13,18 @@ Each tool runs either as an **interactive zero-flicker TUI console** (`sudo <ser
 ## Screenshots (Interactive TUI & Lifecycle)
 
 <p align="center">
-  <img src="docs/screenshots/03-interactive-tui-menu.png" alt="Interactive TUI Management Panel" width="900" />
+  <img src="docs/screenshots/tui-03-interactive-tui-menu.png" alt="Interactive TUI Management Panel" width="900" />
 </p>
 
 | Stage | Preview |
 |---|---|
-| **1. Bootstrap & SHA-256 Verification** | <img src="docs/screenshots/01-bootstrap-sha256.png" alt="Bootstrap & SHA-256 Verification" width="440" /> |
-| **2. Guided 4-Step Installer** | <img src="docs/screenshots/02-guided-installer.png" alt="Guided Installation Wizard" width="440" /> |
-| **3. Application & Network Dashboard** | <img src="docs/screenshots/04-dashboard-overview.png" alt="Application Dashboard" width="440" /> |
-| **4. Safe Update & Auto Backup** | <img src="docs/screenshots/05-safe-backup-update.png" alt="Safe Update & Backup" width="440" /> |
-| **5. Formatted Log Viewer & Live Tail** | <img src="docs/screenshots/06-log-viewer.png" alt="Log Viewer" width="440" /> |
-| **6. Deep System Diagnostics** | <img src="docs/screenshots/07-system-diagnostics.png" alt="System Diagnostics" width="440" /> |
-| **7. Clean Uninstall & Backup** | <img src="docs/screenshots/08-clean-uninstall.png" alt="Clean Uninstall" width="440" /> |
+| **1. Bootstrap & SHA-256 Verification** | <img src="docs/screenshots/tui-01-bootstrap-sha256.png" alt="Bootstrap & SHA-256 Verification" width="440" /> |
+| **2. Guided 4-Step Installer** | <img src="docs/screenshots/tui-02-guided-installer.png" alt="Guided Installation Wizard" width="440" /> |
+| **3. Application & Network Dashboard** | <img src="docs/screenshots/tui-04-dashboard-overview.png" alt="Application Dashboard" width="440" /> |
+| **4. Safe Update & Auto Backup** | <img src="docs/screenshots/tui-05-safe-backup-update.png" alt="Safe Update & Backup" width="440" /> |
+| **5. Formatted Log Viewer & Live Tail** | <img src="docs/screenshots/tui-06-log-viewer.png" alt="Log Viewer" width="440" /> |
+| **6. Deep System Diagnostics** | <img src="docs/screenshots/tui-07-system-diagnostics.png" alt="System Diagnostics" width="440" /> |
+| **7. Clean Uninstall & Backup** | <img src="docs/screenshots/tui-08-clean-uninstall.png" alt="Clean Uninstall" width="440" /> |
 
 ## Table of Contents
 
