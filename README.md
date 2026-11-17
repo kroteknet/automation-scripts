@@ -223,3 +223,12 @@ tar -xzf archives/web-server/nginx.tar.gz
 | `vpn` | 2 | `openvpn`, `wireguard` |
 | `web-server` | 5 | `apache`, `caddy`, `nginx`, `openlitespeed`, `openresty` |
 | `webpanel` | 3 | `cyberpanel`, `hestiacp`, `webmin` |
+
+---
+
+## License, Legal Disclaimer & Trademarks
+
+- **MIT License:** All first-party Go source code, installer scripts, and compiled binaries in this repository are licensed under the [MIT License](LICENSE).
+- **"AS IS" No Warranty & Liability Waiver:** These tools execute administrative operations with elevated (`root` / `sudo`) privileges. They are provided **"AS IS"**, without warranty of any kind. Always create a verified VM/VPS snapshot or off-site backup before running automated installers on production systems. See full [Terms of Use & Disclaimers](https://kroteknet.com/terms) and [Privacy Policy](https://kroteknet.com/privacy).
+- **Upstream Packages & Trademarks:** Bootstrap installers fetch third-party packages from official Linux distribution or upstream vendor repositories (APT, DNF, APK, Docker). Third-party software remains governed by its own upstream licenses (e.g., GPL, Apache 2.0, BSD, Mojang EULA). Product names and logos are cited strictly for nominative compatibility identification; KROTEKNET is an independent project with no official affiliation or endorsement.
+- **Security Disclosures:** Report vulnerabilities privately via [SECURITY.md](SECURITY.md) or [support@kroteknet.com](mailto:support@kroteknet.com).
